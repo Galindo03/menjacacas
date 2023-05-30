@@ -7,205 +7,200 @@
      0.000 D | Git refspec                :  "refs/heads/stable"
      0.000 D | Work dir before adjustment :  "C:/Users/david/Desktop"
      0.000 D | Work dir after adjustment  :  "C:/Users/david/Desktop/Prism"
-     0.000 D | Adjusted by                :  "Portable data path"
+     0.001 D | Adjusted by                :  "Portable data path"
      0.001 D | Binary path                :  "C:/Users/david/Desktop/Prism"
      0.001 D | Application root path      :  "C:/Users/david/Desktop/Prism"
      0.001 D | ID of instance to launch   :  "1.19.3 Fabric"
      0.001 D | <> Paths set.
-     0.004 D | Detected default console font: "Courier New" , substitutions: ""
+     0.005 D | Detected default console font: "Courier New" , substitutions: ""
      0.007 D | <> Settings loaded.
-     0.007 D | Detecting proxy settings...
-     0.007 D | Using no proxy is an option!
-     0.007 D | <> Network done.
-     0.009 D | Loading Application Language File for es ...
-     0.009 D | Your language is "es"
-     0.009 D | <> Translations loaded.
-     0.010 D | Started watching  "C:/Users/david/Desktop/Prism/icons"
-     0.010 D | Sorting icon list...
-     0.010 D | <> Instance icons intialized.
-     0.011 D | [Theme] <> Icon themes initialized.
-     0.011 D | [Theme] <> Initializing Widget Themes
-     0.011 D | [Theme] Determining System Theme...
-     0.011 D | [Theme] System theme seems to be: "windowsvista"
-     0.011 D | [Theme] Considering theme from theme factory: "windowsvista"
-     0.011 D | [Theme] System theme has been determined to be: "windowsvista"
-     0.011 D | [Theme] Loading Built-in Theme: "system"
-     0.011 D | [Theme] Loading Built-in Theme: "dark"
-     0.011 D | [Theme] Loading Built-in Theme: "bright"
-     0.011 D | [Theme] Theme Folder Path:  "C:/Users/david/Desktop/Prism/themes"
-     0.012 D | [Theme] <> Widget themes initialized.
-     0.012 D | Instance path              :  "instances"
-     0.012 D | Loading Instances...
-     0.012 D | Discovering instances in "C:/Users/david/Desktop/Prism/instances"
-     0.013 D | Found instance ID "1.19.3 Fabric"
-     0.013 D | Will load group list now.
-     0.013 D | Group list loaded.
-     0.013 D | Loaded instance  "1.19.3 Fabric"  from  "C:/Users/david/Desktop/Prism/instances/1.19.3 Fabric"
-     0.014 D | <> Instances loaded.
-     0.014 D | Loading accounts...
-     0.014 D | AccountList: Queued default account with internal ID  "4b216302adbb41baa0a6f71f0e0bffe5"  to refresh first
-     0.014 D | Task "OfflineRefresh(0x1bd977226a0)" starting for the first time
-     0.014 D | AuthFlow: "Creando cuenta offline."
-     0.014 D | Task "OfflineRefresh(0x1bd977226a0)" succeeded
-     0.014 D | Writing account list to "accounts.json"
-     0.014 D | Building JSON data structure.
-     0.014 D | Building account array.
-     0.014 D | Writing account list to file.
-     0.016 D | Saved account list to "accounts.json"
-     0.016 D | RefreshSchedule: Background account refresh succeeded
-     0.016 D | RefreshSchedule: Processing account  "<Offline>"  with internal ID  "4b216302adbb41baa0a6f71f0e0bffe5"
-     0.016 D | <> Accounts loaded.
-     0.017 D | <> Cache initialized.
-     0.017 D | Downloading Translations Index...
-     0.018 W | Removing cache entry because of old age!
-     0.018 D | Task "NetJob(Translations Index)" starting for the first time
-     0.022 D | <> Icon theme set.
-     0.022 D | [Theme] applying theme "Sistema"
-     0.022 D | <> Application theme set.
-     0.026 D | <> Instance "1.19.3 Fabric" launching
-     0.026 D | Task "LaunchController(0x1bd95502860)" starting for the first time
-     0.028 D | Instance-type specific settings were loaded!
-     0.469 D | Task "LaunchTask(0x1bd97714590)" starting for the first time
-     0.469 D | Task "TextPrint(0x1bd95598f30)" starting for the first time
-     0.470 D | Task "TextPrint(0x1bd95598f30)" succeeded
-     0.470 D | Task "TextPrint(0x1bd95598170)" starting for the first time
-     0.470 D | Task "TextPrint(0x1bd95598170)" succeeded
-     0.470 D | Task "TextPrint(0x1bd95598e80)" starting for the first time
-     0.470 D | Task "TextPrint(0x1bd95598e80)" succeeded
-     0.470 D | Task "TextPrint(0x1bd95597f60)" starting for the first time
-     0.471 D | Task "TextPrint(0x1bd95597f60)" succeeded
-     0.471 D | Task "CheckJava(0x1bd9779d610)" starting for the first time
-     0.471 D | "Running java checker: C:/Program Files/Common Files/Oracle/Java/javapath/javaw.exe-jar C:/Users/david/Desktop/Prism/jars/JavaCheck.jar"
-     0.477 D | Task "Net::Download(0x1bd9558dbb0)" starting for the first time
-     0.477 D | Downloading  "https://i18n.prismlauncher.org/index_v2.json"
-     0.528 D | Dir changed: "C:/Users/david/Desktop/Prism/translations"
-     0.530 D | Loading Application Language File for es ...
-     0.595 D | STDOUT "os.arch=amd64\njava.version=17.0.7\njava.vendor=Oracle Corporation\n"
-     0.595 W | STDERR ""
-     0.595 D | Java checker finished with status  QProcess::NormalExit  exit code  0
-     0.595 D | Java checker succeeded.
-     0.600 C | "Error changing setting JavaVendor. Setting doesn't exist."
-     0.601 D | Task "CheckJava(0x1bd9779d610)" succeeded
-     0.602 D | Task "CreateGameFolders(0x1bd955dd670)" starting for the first time
-     0.602 D | Task "CreateGameFolders(0x1bd955dd670)" succeeded
-     0.602 D | Task "ClaimAccount(0x1bd95598c70)" starting for the first time
-     0.602 D | Writing account list to "accounts.json"
-     0.602 D | Building JSON data structure.
-     0.602 D | Building account array.
-     0.602 D | Writing account list to file.
-     0.603 D | Saved account list to "accounts.json"
-     0.603 W | Profile "47671e15d3694526bcffcae3f8b5bd6d" is now in use.
-     0.603 D | Task "ClaimAccount(0x1bd95598c70)" succeeded
-     0.603 D | Task "Update(0x1bd95597670)" starting for the first time
-     0.606 D | Task "MinecraftUpdate(0x1bd955ca6a0)" starting for the first time
-     0.606 D | Task "ComponentUpdateTask(0x1bd99eb1cf0)" starting for the first time
-     0.606 D | Loading components
-     0.607 D | Task "NetJob(Descargando archivos de actualización de index.json)" starting for the first time
-     0.607 D | Remote loading is being run for metadata index
-     0.611 D | Task "NetJob(Descargando archivos de actualización de org.lwjgl3/3.3.1.json)" starting for the first time
-     0.611 D | Remote loading is being run for "LWJGL 3"
-     0.615 D | Task "NetJob(Descargando archivos de actualización de net.minecraft/1.19.3.json)" starting for the first time
-     0.615 D | Remote loading is being run for "Minecraft"
-     0.615 D | Task "NetJob(Descargando archivos de actualización de net.fabricmc.intermediary/1.19.3.json)" starting for the first time
-     0.616 D | Remote loading is being run for "Intermediary Mappings"
-     0.616 D | Task "NetJob(Descargando archivos de actualización de net.fabricmc.fabric-loader/0.14.21.json)" starting for the first time
-     0.617 D | Remote loading is being run for "Fabric Loader"
-     0.617 D | Task "FoldersTask(0x1bd99eb0430)" starting for the first time
-     0.617 D | Task "FoldersTask(0x1bd99eb0430)" succeeded
-     0.654 D | Task "Net::Download(0x1bd9558daf0)" starting for the first time
-     0.655 D | Downloading  "https://meta.prismlauncher.org/v1/net.fabricmc.fabric-loader/0.14.21.json"
-     0.655 D | Task "Net::Download(0x1bd9779ca10)" starting for the first time
-     0.656 D | Downloading  "https://meta.prismlauncher.org/v1/net.fabricmc.intermediary/1.19.3.json"
-     0.656 D | Task "Net::Download(0x1bd9779c1d0)" starting for the first time
-     0.657 D | Downloading  "https://meta.prismlauncher.org/v1/net.minecraft/1.19.3.json"
-     0.657 D | Task "Net::Download(0x1bd9779d790)" starting for the first time
-     0.658 D | Downloading  "https://meta.prismlauncher.org/v1/org.lwjgl3/3.3.1.json"
-     0.658 D | Task "Net::Download(0x1bd9779be10)" starting for the first time
-     0.659 D | Downloading  "https://meta.prismlauncher.org/v1/index.json"
-     0.692 D | Download succeeded: "https://i18n.prismlauncher.org/index_v2.json"
-     0.692 D | Task "NetJob(Translations Index)" succeeded
-     0.692 D | Got translations index!
-     0.692 W | Removing cache entry because of old age!
-     0.692 D | Task "NetJob(Translation for es)" starting for the first time
-     0.692 D | Dir changed: "C:/Users/david/Desktop/Prism/translations"
-     0.700 D | Loading Application Language File for es ...
-     0.700 D | Dir changed: "C:/Users/david/Desktop/Prism/translations"
-     0.702 D | Loading Application Language File for es ...
-     0.703 D | Task "Net::Download(0x1bd99efcdd0)" starting for the first time
-     0.703 D | Downloading  "https://i18n.prismlauncher.org/ba7c7f8c4b67cfba512140c6d760dd8c10b5d998.class"
-     0.704 D | Dir changed: "C:/Users/david/Desktop/Prism/translations"
-     0.706 D | Loading Application Language File for es ...
-     0.758 D | Download succeeded: "https://i18n.prismlauncher.org/ba7c7f8c4b67cfba512140c6d760dd8c10b5d998.class"
-     0.759 D | Task "NetJob(Translation for es)" succeeded
-     0.759 D | Got translation: "es"
-     0.763 D | Loading Application Language File for es ...
-     0.763 D | Dir changed: "C:/Users/david/Desktop/Prism/translations"
-     0.765 D | Loading Application Language File for es ...
-     0.765 D | Dir changed: "C:/Users/david/Desktop/Prism/translations"
-     0.766 D | Loading Application Language File for es ...
-     0.800 D | Download succeeded: "https://meta.prismlauncher.org/v1/net.fabricmc.intermediary/1.19.3.json"
-     0.800 D | Task "NetJob(Descargando archivos de actualización de net.fabricmc.intermediary/1.19.3.json)" succeeded
-     0.800 D | Remote task 3 succeeded
-     0.800 D | Component list save is scheduled for "1.19.3 Fabric"
-     0.800 D | Download succeeded: "https://meta.prismlauncher.org/v1/net.minecraft/1.19.3.json"
-     0.800 D | Task "NetJob(Descargando archivos de actualización de net.minecraft/1.19.3.json)" succeeded
-     0.801 D | Remote task 2 succeeded
-     0.801 D | Download succeeded: "https://meta.prismlauncher.org/v1/index.json"
-     0.801 D | Task "NetJob(Descargando archivos de actualización de index.json)" succeeded
-     0.802 D | Remote task 0 succeeded
-     0.802 D | Download succeeded: "https://meta.prismlauncher.org/v1/net.fabricmc.fabric-loader/0.14.21.json"
-     0.802 D | Task "NetJob(Descargando archivos de actualización de net.fabricmc.fabric-loader/0.14.21.json)" succeeded
-     0.802 D | Remote task 4 succeeded
-     0.803 D | Download succeeded: "https://meta.prismlauncher.org/v1/org.lwjgl3/3.3.1.json"
-     0.803 D | Task "NetJob(Descargando archivos de actualización de org.lwjgl3/3.3.1.json)" succeeded
-     0.803 D | Remote task 1 succeeded
-     0.803 D | Resolving dependencies
-     0.803 D | "Req: net.fabricmc.intermediary" Is met.
-     0.803 D | "Req: net.minecraft == 1.19.3" Is met.
-     0.803 D | "Req: org.lwjgl3" Is met.
-     0.803 D | Task "ComponentUpdateTask(0x1bd99eb1cf0)" succeeded
-     0.803 D | Component list update/resolve task succeeded for "1.19.3 Fabric"
-     0.803 D | Task "LibrariesTask(0x1bd99d9a290)" starting for the first time
-     0.805 D | "1.19.3 Fabric" : downloading libraries
-     0.805 D | Applying "org.lwjgl3" GOOD
-     0.805 D | Applying "net.minecraft" GOOD
-     0.805 D | Applying "net.fabricmc.intermediary" GOOD
-     0.805 D | Applying "net.fabricmc.fabric-loader" GOOD
-     0.809 D | Task "NetJob(Librerias para la instancia 1.19.3 Fabric)" starting for the first time
-     0.813 D | Task "NetJob(Librerias para la instancia 1.19.3 Fabric)" succeeded
-     0.814 D | Task "LibrariesTask(0x1bd99d9a290)" succeeded
-     0.814 D | Task "FMLLibrariesTask(0x1bd99efd550)" starting for the first time
-     0.814 D | Task "FMLLibrariesTask(0x1bd99efd550)" succeeded
-     0.814 D | Task "AssetUpdateTask(0x1bd99d9ae70)" starting for the first time
-     0.814 D | Asset index SHA1: "c7cdde3fad6be32a393b14e4e9e8b8877c4b7ef9"
-     0.815 D | "1.19.3 Fabric" : Starting asset index download
-     0.815 D | Task "NetJob(Índice de recursos para 1.19.3 Fabric)" starting for the first time
-     0.815 D | Task "Net::Download(0x1bd99efe090)" starting for the first time
-     0.816 D | Downloading  "https://piston-meta.mojang.com/v1/packages/c7cdde3fad6be32a393b14e4e9e8b8877c4b7ef9/2.json"
-     1.008 D | Download succeeded: "https://piston-meta.mojang.com/v1/packages/c7cdde3fad6be32a393b14e4e9e8b8877c4b7ef9/2.json"
-     1.009 D | Task "NetJob(Índice de recursos para 1.19.3 Fabric)" succeeded
-     1.009 D | "1.19.3 Fabric" : Finished asset index download
-     1.102 D | Task "AssetUpdateTask(0x1bd99d9ae70)" succeeded
-     1.102 D | Task "MinecraftUpdate(0x1bd955ca6a0)" succeeded
-     1.102 D | Task "Update(0x1bd95597670)" succeeded
-     1.123 D | Task "ModMinecraftJar(0x1bd955dcc50)" starting for the first time
-     1.127 D | Task "ModMinecraftJar(0x1bd955dcc50)" succeeded
-     1.127 D | Task "ScanModFolders(0x1bd955c0a60)" starting for the first time
-     1.131 D | Task "ScanModFolders(0x1bd955c0a60)" succeeded
-     1.131 D | Task "ConcurrentTask(0x1bd99f03d28)" starting for the first time
-     1.132 D | Task "PrintInstanceInfo(0x1bd955989b0)" starting for the first time
-     1.165 D | Task "PrintInstanceInfo(0x1bd955989b0)" succeeded
-     1.166 D | Task "ExtractNatives(0x1bd955dcb30)" starting for the first time
-     1.168 D | Task "ExtractNatives(0x1bd955dcb30)" succeeded
-     1.168 D | Task "ReconstructAssets(0x1bd955dd040)" starting for the first time
-     1.168 D | reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/2"
-     1.215 D | Task "ReconstructAssets(0x1bd955dd040)" succeeded
-     1.215 D | Task "VerifyJavaInstall(0x1bd955dde50)" starting for the first time
-     1.216 D | Task "VerifyJavaInstall(0x1bd955dde50)" succeeded
-     1.220 D | Task "LauncherPartLaunch(0x1bd955d6390)" starting for the first time
-     1.246 D | "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx4096m -Duser.language=en -Djava.library.path=C:/Users/david/Desktop/Prism/instances/1.19.3 Fabric/natives -cp C:/Users/david/Desktop/Prism/jars/NewLaunch.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-glfw-natives-windows-arm64/3.3.1/lwjgl-glfw-natives-windows-arm64-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-glfw-natives-windows-x86/3.3.1/lwjgl-glfw-natives-windows-x86-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-glfw-natives-windows/3.3.1/lwjgl-glfw-natives-windows-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows-arm64/3.3.1/lwjgl-jemalloc-natives-windows-arm64-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows-x86/3.3.1/lwjgl-jemalloc-natives-windows-x86-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows/3.3.1/lwjgl-jemalloc-natives-windows-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-natives-windows-arm64/3.3.1/lwjgl-natives-windows-arm64-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-natives-windows-x86/3.3.1/lwjgl-natives-windows-x86-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-natives-windows/3.3.1/lwjgl-natives-windows-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-openal-natives-windows-arm64/3.3.1/lwjgl-openal-natives-windows-arm64-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-openal-natives-windows-x86/3.3.1/lwjgl-openal-natives-windows-x86-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-openal-natives-windows/3.3.1/lwjgl-openal-natives-windows-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-opengl-natives-windows-arm64/3.3.1/lwjgl-opengl-natives-windows-arm64-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-opengl-natives-windows-x86/3.3.1/lwjgl-opengl-natives-windows-x86-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-opengl-natives-windows/3.3.1/lwjgl-opengl-natives-windows-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-stb-natives-windows-arm64/3.3.1/lwjgl-stb-natives-windows-arm64-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-stb-natives-windows-x86/3.3.1/lwjgl-stb-natives-windows-x86-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-stb-natives-windows/3.3.1/lwjgl-stb-natives-windows-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows-arm64/3.3.1/lwjgl-tinyfd-natives-windows-arm64-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows-x86/3.3.1/lwjgl-tinyfd-natives-windows-x86-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows/3.3.1/lwjgl-tinyfd-natives-windows-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/com/github/oshi/oshi-core/6.2.2/oshi-core-6.2.2.jar;C:/Users/david/Desktop/Prism/libraries/com/google/code/gson/gson/2.10/gson-2.10.jar;C:/Users/david/Desktop/Prism/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar;C:/Users/david/Desktop/Prism/libraries/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar;C:/Users/david/Desktop/Prism/libraries/com/ibm/icu/icu4j/71.1/icu4j-71.1.jar;C:/Users/david/Desktop/Prism/libraries/com/mojang/authlib/3.16.29/authlib-3.16.29.jar;C:/Users/david/Desktop/Prism/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar;C:/Users/david/Desktop/Prism/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar;C:/Users/david/Desktop/Prism/libraries/com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar;C:/Users/david/Desktop/Prism/libraries/com/mojang/javabridge/2.0.25/javabridge-2.0.25.jar;C:/Users/david/Desktop/Prism/libraries/com/mojang/logging/1.1.1/logging-1.1.1.jar;C:/Users/david/Desktop/Prism/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar;C:/Users/david/Desktop/Prism/libraries/com/mojang/text2speech/1.16.7/text2speech-1.16.7.jar;C:/Users/david/Desktop/Prism/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar;C:/Users/david/Desktop/Prism/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar;C:/Users/david/Desktop/Prism/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;C:/Users/david/Desktop/Prism/libraries/io/netty/netty-buffer/4.1.82.Final/netty-buffer-4.1.82.Final.jar;C:/Users/david/Desktop/Prism/libraries/io/netty/netty-codec/4.1.82.Final/netty-codec-4.1.82.Final.jar;C:/Users/david/Desktop/Prism/libraries/io/netty/netty-common/4.1.82.Final/netty-common-4.1.82.Final.jar;C:/Users/david/Desktop/Prism/libraries/io/netty/netty-handler/4.1.82.Final/netty-handler-4.1.82.Final.jar;C:/Users/david/Desktop/Prism/libraries/io/netty/netty-resolver/4.1.82.Final/netty-resolver-4.1.82.Final.jar;C:/Users/david/Desktop/Prism/libraries/io/netty/netty-transport-classes-epoll/4.1.82.Final/netty-transport-classes-epoll-4.1.82.Final.jar;C:/Users/david/Desktop/Prism/libraries/io/netty/netty-transport-native-unix-common/4.1.82.Final/netty-transport-native-unix-common-4.1.82.Final.jar;C:/Users/david/Desktop/Prism/libraries/io/netty/netty-transport/4.1.82.Final/netty-transport-4.1.82.Final.jar;C:/Users/david/Desktop/Prism/libraries/it/unimi/dsi/fastutil/8.5.9/fastutil-8.5.9.jar;C:/Users/david/Desktop/Prism/libraries/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar;C:/Users/david/Desktop/Prism/libraries/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar;C:/Users/david/Desktop/Prism/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar;C:/Users/david/Desktop/Prism/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar;C:/Users/david/Desktop/Prism/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar;C:/Users/david/Desktop/Prism/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar;C:/Users/david/Desktop/Prism/libraries/org/apache/httpcomponents/httpcore/4.4.15/httpcore-4.4.15.jar;C:/Users/david/Desktop/Prism/libraries/org/apache/logging/log4j/log4j-api/2.19.0/log4j-api-2.19.0.jar;C:/Users/david/Desktop/Prism/libraries/org/apache/logging/log4j/log4j-core/2.19.0/log4j-core-2.19.0.jar;C:/Users/david/Desktop/Prism/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.19.0/log4j-slf4j2-impl-2.19.0.jar;C:/Users/david/Desktop/Prism/libraries/org/joml/joml/1.10.5/joml-1.10.5.jar;C:/Users/david/Desktop/Prism/libraries/org/slf4j/slf4j-api/2.0.1/slf4j-api-2.0.1.jar;C:/Users/david/Desktop/Prism/libraries/net/fabricmc/intermediary/1.19.3/intermediary-1.19.3.jar;C:/Users/david/Desktop/Prism/libraries/net/fabricmc/tiny-mappings-parser/0.3.0+build.17/tiny-mappings-parser-0.3.0+build.17.jar;C:/Users/david/Desktop/Prism/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar;C:/Users/david/Desktop/Prism/libraries/net/fabricmc/tiny-remapper/0.8.2/tiny-remapper-0.8.2.jar;C:/Users/david/Desktop/Prism/libraries/net/fabricmc/access-widener/2.1.0/access-widener-2.1.0.jar;C:/Users/david/Desktop/Prism/libraries/org/ow2/asm/asm/9.5/asm-9.5.jar;C:/Users/david/Desktop/Prism/libraries/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar;C:/Users/david/Desktop/Prism/libraries/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar;C:/Users/david/Desktop/Prism/libraries/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar;C:/Users/david/Desktop/Prism/libraries/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar;C:/Users/david/Desktop/Prism/libraries/net/fabricmc/fabric-loader/0.14.21/fabric-loader-0.14.21.jar;C:/Users/david/Desktop/Prism/libraries/com/mojang/minecraft/1.19.3/minecraft-1.19.3-client.jar org.prismlauncher.EntryPoint"
-     1.270 D | Task "ConcurrentTask(0x1bd99f03d28)" succeeded
-     5.796 D | Component list save performed now for "1.19.3 Fabric"
-     9.729 W | QWaitCondition: Destroyed while threads are still waiting
-     9.746 W | QObject::killTimer: Timers cannot be stopped from another thread
-     9.752 W | QObject::~QObject: Timers cannot be stopped from another thread
+     0.008 D | Detecting proxy settings...
+     0.008 D | Using no proxy is an option!
+     0.008 D | <> Network done.
+     0.010 D | Loading Application Language File for es ...
+     0.010 D | Your language is "es"
+     0.010 D | <> Translations loaded.
+     0.011 D | Started watching  "C:/Users/david/Desktop/Prism/icons"
+     0.011 D | Sorting icon list...
+     0.012 D | <> Instance icons intialized.
+     0.012 D | [Theme] <> Icon themes initialized.
+     0.012 D | [Theme] <> Initializing Widget Themes
+     0.012 D | [Theme] Determining System Theme...
+     0.013 D | [Theme] System theme seems to be: "windowsvista"
+     0.013 D | [Theme] Considering theme from theme factory: "windowsvista"
+     0.013 D | [Theme] System theme has been determined to be: "windowsvista"
+     0.013 D | [Theme] Loading Built-in Theme: "system"
+     0.013 D | [Theme] Loading Built-in Theme: "dark"
+     0.013 D | [Theme] Loading Built-in Theme: "bright"
+     0.013 D | [Theme] Theme Folder Path:  "C:/Users/david/Desktop/Prism/themes"
+     0.013 D | [Theme] <> Widget themes initialized.
+     0.013 D | Instance path              :  "instances"
+     0.013 D | Loading Instances...
+     0.014 D | Discovering instances in "C:/Users/david/Desktop/Prism/instances"
+     0.014 D | Found instance ID "1.19.3 Fabric"
+     0.014 D | Will load group list now.
+     0.014 D | Group list loaded.
+     0.015 D | Loaded instance  "1.19.3 Fabric"  from  "C:/Users/david/Desktop/Prism/instances/1.19.3 Fabric"
+     0.015 D | <> Instances loaded.
+     0.015 D | Loading accounts...
+     0.015 D | AccountList: Queued default account with internal ID  "7c983f33e402496792d91193143e172e"  to refresh first
+     0.015 D | Task "OfflineRefresh(0x1ae5e2eb570)" starting for the first time
+     0.015 D | AuthFlow: "Creando cuenta offline."
+     0.015 D | Task "OfflineRefresh(0x1ae5e2eb570)" succeeded
+     0.016 D | Writing account list to "accounts.json"
+     0.016 D | Building JSON data structure.
+     0.016 D | Building account array.
+     0.016 D | Writing account list to file.
+     0.017 D | Saved account list to "accounts.json"
+     0.017 D | RefreshSchedule: Background account refresh succeeded
+     0.017 D | RefreshSchedule: Processing account  "<Offline>"  with internal ID  "7c983f33e402496792d91193143e172e"
+     0.018 D | <> Accounts loaded.
+     0.019 D | <> Cache initialized.
+     0.019 D | Downloading Translations Index...
+     0.019 D | Task "NetJob(Translations Index)" starting for the first time
+     0.023 D | <> Icon theme set.
+     0.023 D | [Theme] applying theme "Sistema"
+     0.023 D | <> Application theme set.
+     0.027 D | <> Instance "1.19.3 Fabric" launching
+     0.027 D | Task "LaunchController(0x1ae5c1d4ae0)" starting for the first time
+     0.030 D | Instance-type specific settings were loaded!
+     0.285 D | Task "LaunchTask(0x1ae5e335f40)" starting for the first time
+     0.285 D | Task "TextPrint(0x1ae5c2895a0)" starting for the first time
+     0.286 D | Task "TextPrint(0x1ae5c2895a0)" succeeded
+     0.286 D | Task "TextPrint(0x1ae5c2881b0)" starting for the first time
+     0.286 D | Task "TextPrint(0x1ae5c2881b0)" succeeded
+     0.286 D | Task "TextPrint(0x1ae5c288ec0)" starting for the first time
+     0.286 D | Task "TextPrint(0x1ae5c288ec0)" succeeded
+     0.286 D | Task "TextPrint(0x1ae5c288cb0)" starting for the first time
+     0.286 D | Task "TextPrint(0x1ae5c288cb0)" succeeded
+     0.286 D | Task "CheckJava(0x1ae5c1c59a0)" starting for the first time
+     0.286 D | "Running java checker: C:/Program Files/Common Files/Oracle/Java/javapath/javaw.exe-jar C:/Users/david/Desktop/Prism/jars/JavaCheck.jar"
+     0.293 D | Task "Net::Download(0x1ae5c26e7b0)" starting for the first time
+     0.294 D | Downloading  "https://i18n.prismlauncher.org/index_v2.json"
+     0.353 D | Dir changed: "C:/Users/david/Desktop/Prism/translations"
+     0.355 D | Loading Application Language File for es ...
+     0.432 D | STDOUT "os.arch=amd64\njava.version=17.0.7\njava.vendor=Oracle Corporation\n"
+     0.433 W | STDERR ""
+     0.433 D | Java checker finished with status  QProcess::NormalExit  exit code  0
+     0.433 D | Java checker succeeded.
+     0.439 C | "Error changing setting JavaVendor. Setting doesn't exist."
+     0.442 D | Task "CheckJava(0x1ae5c1c59a0)" succeeded
+     0.442 D | Task "CreateGameFolders(0x1ae5c2ab110)" starting for the first time
+     0.442 D | Task "CreateGameFolders(0x1ae5c2ab110)" succeeded
+     0.442 D | Task "ClaimAccount(0x1ae5c288b50)" starting for the first time
+     0.442 D | Writing account list to "accounts.json"
+     0.443 D | Building JSON data structure.
+     0.443 D | Building account array.
+     0.443 D | Writing account list to file.
+     0.444 D | Saved account list to "accounts.json"
+     0.445 W | Profile "47671e15d3694526bcffcae3f8b5bd6d" is now in use.
+     0.445 D | Task "ClaimAccount(0x1ae5c288b50)" succeeded
+     0.445 D | Task "Update(0x1ae5c288050)" starting for the first time
+     0.449 D | Task "MinecraftUpdate(0x1ae5e3377c0)" starting for the first time
+     0.449 D | Task "ComponentUpdateTask(0x1ae5faa2390)" starting for the first time
+     0.449 D | Loading components
+     0.450 D | Task "NetJob(Descargando archivos de actualización de index.json)" starting for the first time
+     0.450 D | Remote loading is being run for metadata index
+     0.457 D | Task "NetJob(Descargando archivos de actualización de org.lwjgl3/3.3.1.json)" starting for the first time
+     0.457 D | Remote loading is being run for "LWJGL 3"
+     0.461 D | Task "NetJob(Descargando archivos de actualización de net.minecraft/1.19.3.json)" starting for the first time
+     0.461 D | Remote loading is being run for "Minecraft"
+     0.462 D | Task "NetJob(Descargando archivos de actualización de net.fabricmc.intermediary/1.19.3.json)" starting for the first time
+     0.462 D | Remote loading is being run for "Intermediary Mappings"
+     0.463 D | Task "NetJob(Descargando archivos de actualización de net.fabricmc.fabric-loader/0.14.21.json)" starting for the first time
+     0.463 D | Remote loading is being run for "Fabric Loader"
+     0.464 D | Task "FoldersTask(0x1ae5faa1970)" starting for the first time
+     0.464 D | Task "FoldersTask(0x1ae5faa1970)" succeeded
+     0.506 D | Task "Net::Download(0x1ae5fad0fe0)" starting for the first time
+     0.507 D | Downloading  "https://meta.prismlauncher.org/v1/net.fabricmc.fabric-loader/0.14.21.json"
+     0.508 D | Task "Net::Download(0x1ae5fad0920)" starting for the first time
+     0.508 D | Downloading  "https://meta.prismlauncher.org/v1/net.fabricmc.intermediary/1.19.3.json"
+     0.509 D | Task "Net::Download(0x1ae5c1c6360)" starting for the first time
+     0.510 D | Downloading  "https://meta.prismlauncher.org/v1/net.minecraft/1.19.3.json"
+     0.510 D | Task "Net::Download(0x1ae5c1c61e0)" starting for the first time
+     0.511 D | Downloading  "https://meta.prismlauncher.org/v1/org.lwjgl3/3.3.1.json"
+     0.511 D | Task "Net::Download(0x1ae5c1c55e0)" starting for the first time
+     0.512 D | Downloading  "https://meta.prismlauncher.org/v1/index.json"
+     0.542 D | Download succeeded: "https://i18n.prismlauncher.org/index_v2.json"
+     0.543 D | Task "NetJob(Translations Index)" succeeded
+     0.543 D | Got translations index!
+     0.544 D | Task "NetJob(Translation for es)" starting for the first time
+     0.544 D | Dir changed: "C:/Users/david/Desktop/Prism/translations"
+     0.545 D | Loading Application Language File for es ...
+     0.546 D | Task "Net::Download(0x1ae5fad0860)" starting for the first time
+     0.546 D | Downloading  "https://i18n.prismlauncher.org/ba7c7f8c4b67cfba512140c6d760dd8c10b5d998.class"
+     0.547 D | Dir changed: "C:/Users/david/Desktop/Prism/translations"
+     0.549 D | Loading Application Language File for es ...
+     0.781 D | Download succeeded: "https://i18n.prismlauncher.org/ba7c7f8c4b67cfba512140c6d760dd8c10b5d998.class"
+     0.781 D | Task "NetJob(Translation for es)" succeeded
+     0.781 D | Got translation: "es"
+     0.782 D | Loading Application Language File for es ...
+     0.783 D | Dir changed: "C:/Users/david/Desktop/Prism/translations"
+     0.784 D | Loading Application Language File for es ...
+     0.812 D | Download succeeded: "https://meta.prismlauncher.org/v1/net.minecraft/1.19.3.json"
+     0.813 D | Task "NetJob(Descargando archivos de actualización de net.minecraft/1.19.3.json)" succeeded
+     0.813 D | Remote task 2 succeeded
+     0.813 D | Download succeeded: "https://meta.prismlauncher.org/v1/index.json"
+     0.814 D | Task "NetJob(Descargando archivos de actualización de index.json)" succeeded
+     0.814 D | Remote task 0 succeeded
+     0.814 D | Download succeeded: "https://meta.prismlauncher.org/v1/org.lwjgl3/3.3.1.json"
+     0.814 D | Task "NetJob(Descargando archivos de actualización de org.lwjgl3/3.3.1.json)" succeeded
+     0.814 D | Remote task 1 succeeded
+     0.815 D | Component list save is scheduled for "1.19.3 Fabric"
+     0.815 D | Download succeeded: "https://meta.prismlauncher.org/v1/net.fabricmc.intermediary/1.19.3.json"
+     0.815 D | Task "NetJob(Descargando archivos de actualización de net.fabricmc.intermediary/1.19.3.json)" succeeded
+     0.815 D | Remote task 3 succeeded
+     0.816 D | Download succeeded: "https://meta.prismlauncher.org/v1/net.fabricmc.fabric-loader/0.14.21.json"
+     0.816 D | Task "NetJob(Descargando archivos de actualización de net.fabricmc.fabric-loader/0.14.21.json)" succeeded
+     0.816 D | Remote task 4 succeeded
+     0.816 D | Resolving dependencies
+     0.817 D | "Req: net.fabricmc.intermediary" Is met.
+     0.817 D | "Req: net.minecraft == 1.19.3" Is met.
+     0.817 D | "Req: org.lwjgl3" Is met.
+     0.817 D | Task "ComponentUpdateTask(0x1ae5faa2390)" succeeded
+     0.817 D | Component list update/resolve task succeeded for "1.19.3 Fabric"
+     0.817 D | Task "LibrariesTask(0x1ae5f991180)" starting for the first time
+     0.821 D | "1.19.3 Fabric" : downloading libraries
+     0.821 D | Applying "org.lwjgl3" GOOD
+     0.821 D | Applying "net.minecraft" GOOD
+     0.821 D | Applying "net.fabricmc.intermediary" GOOD
+     0.821 D | Applying "net.fabricmc.fabric-loader" GOOD
+     0.827 D | Task "NetJob(Librerias para la instancia 1.19.3 Fabric)" starting for the first time
+     0.835 D | Task "NetJob(Librerias para la instancia 1.19.3 Fabric)" succeeded
+     0.835 D | Task "LibrariesTask(0x1ae5f991180)" succeeded
+     0.835 D | Task "FMLLibrariesTask(0x1ae5fad07a0)" starting for the first time
+     0.835 D | Task "FMLLibrariesTask(0x1ae5fad07a0)" succeeded
+     0.835 D | Task "AssetUpdateTask(0x1ae5f990be0)" starting for the first time
+     0.836 D | Asset index SHA1: "c7cdde3fad6be32a393b14e4e9e8b8877c4b7ef9"
+     0.836 D | "1.19.3 Fabric" : Starting asset index download
+     0.837 D | Task "NetJob(Índice de recursos para 1.19.3 Fabric)" starting for the first time
+     0.840 D | Task "Net::Download(0x1ae5f971e00)" starting for the first time
+     0.841 D | Downloading  "https://piston-meta.mojang.com/v1/packages/c7cdde3fad6be32a393b14e4e9e8b8877c4b7ef9/2.json"
+     1.000 D | Download succeeded: "https://piston-meta.mojang.com/v1/packages/c7cdde3fad6be32a393b14e4e9e8b8877c4b7ef9/2.json"
+     1.001 D | Task "NetJob(Índice de recursos para 1.19.3 Fabric)" succeeded
+     1.001 D | "1.19.3 Fabric" : Finished asset index download
+     1.107 D | Task "AssetUpdateTask(0x1ae5f990be0)" succeeded
+     1.108 D | Task "MinecraftUpdate(0x1ae5e3377c0)" succeeded
+     1.108 D | Task "Update(0x1ae5c288050)" succeeded
+     1.129 D | Task "ModMinecraftJar(0x1ae5c2ab590)" starting for the first time
+     1.130 D | Task "ModMinecraftJar(0x1ae5c2ab590)" succeeded
+     1.130 D | Task "ScanModFolders(0x1ae5c28f460)" starting for the first time
+     1.132 D | Task "ConcurrentTask(0x1ae6044d1e8)" starting for the first time
+     1.132 D | Task "ScanModFolders(0x1ae5c28f460)" succeeded
+     1.132 D | Task "ConcurrentTask(0x1ae6044d1e8)" starting for the first time
+e
+     1.154 D | Task "PrintInstanceInfo(0x1ae5c288520)" succeeded
+     1.154 D | Task "ExtractNatives(0x1ae5c2a97c0)" starting for the first time
+     1.155 D | Task "ExtractNatives(0x1ae5c2a97c0)" succeeded
+     1.155 D | Task "ReconstructAssets(0x1ae5c2ab620)" starting for the first time
+     1.155 D | reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/2"
+     1.175 D | Task "ReconstructAssets(0x1ae5c2ab620)" succeeded
+     1.176 D | Task "VerifyJavaInstall(0x1ae5c2aa5d0)" starting for the first time
+     1.176 D | Task "VerifyJavaInstall(0x1ae5c2aa5d0)" succeeded
+     1.176 D | Task "LauncherPartLaunch(0x1ae5c2acb80)" starting for the first time
+     1.195 D | "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx4096m -Duser.language=en -Djava.library.path=C:/Users/david/Desktop/Prism/instances/1.19.3 Fabric/natives -cp C:/Users/david/Desktop/Prism/jars/NewLaunch.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-glfw-natives-windows-arm64/3.3.1/lwjgl-glfw-natives-windows-arm64-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-glfw-natives-windows-x86/3.3.1/lwjgl-glfw-natives-windows-x86-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-glfw-natives-windows/3.3.1/lwjgl-glfw-natives-windows-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows-arm64/3.3.1/lwjgl-jemalloc-natives-windows-arm64-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows-x86/3.3.1/lwjgl-jemalloc-natives-windows-x86-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows/3.3.1/lwjgl-jemalloc-natives-windows-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-natives-windows-arm64/3.3.1/lwjgl-natives-windows-arm64-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-natives-windows-x86/3.3.1/lwjgl-natives-windows-x86-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-natives-windows/3.3.1/lwjgl-natives-windows-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-openal-natives-windows-arm64/3.3.1/lwjgl-openal-natives-windows-arm64-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-openal-natives-windows-x86/3.3.1/lwjgl-openal-natives-windows-x86-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-openal-natives-windows/3.3.1/lwjgl-openal-natives-windows-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-opengl-natives-windows-arm64/3.3.1/lwjgl-opengl-natives-windows-arm64-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-opengl-natives-windows-x86/3.3.1/lwjgl-opengl-natives-windows-x86-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-opengl-natives-windows/3.3.1/lwjgl-opengl-natives-windows-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-stb-natives-windows-arm64/3.3.1/lwjgl-stb-natives-windows-arm64-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-stb-natives-windows-x86/3.3.1/lwjgl-stb-natives-windows-x86-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-stb-natives-windows/3.3.1/lwjgl-stb-natives-windows-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows-arm64/3.3.1/lwjgl-tinyfd-natives-windows-arm64-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows-x86/3.3.1/lwjgl-tinyfd-natives-windows-x86-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows/3.3.1/lwjgl-tinyfd-natives-windows-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar;C:/Users/david/Desktop/Prism/libraries/com/github/oshi/oshi-core/6.2.2/oshi-core-6.2.2.jar;C:/Users/david/Desktop/Prism/libraries/com/google/code/gson/gson/2.10/gson-2.10.jar;C:/Users/david/Desktop/Prism/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar;C:/Users/david/Desktop/Prism/libraries/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar;C:/Users/david/Desktop/Prism/libraries/com/ibm/icu/icu4j/71.1/icu4j-71.1.jar;C:/Users/david/Desktop/Prism/libraries/com/mojang/authlib/3.16.29/authlib-3.16.29.jar;C:/Users/david/Desktop/Prism/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar;C:/Users/david/Desktop/Prism/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar;C:/Users/david/Desktop/Prism/libraries/com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar;C:/Users/david/Desktop/Prism/libraries/com/mojang/javabridge/2.0.25/javabridge-2.0.25.jar;C:/Users/david/Desktop/Prism/libraries/com/mojang/logging/1.1.1/logging-1.1.1.jar;C:/Users/david/Desktop/Prism/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar;C:/Users/david/Desktop/Prism/libraries/com/mojang/text2speech/1.16.7/text2speech-1.16.7.jar;C:/Users/david/Desktop/Prism/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar;C:/Users/david/Desktop/Prism/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar;C:/Users/david/Desktop/Prism/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;C:/Users/david/Desktop/Prism/libraries/io/netty/netty-buffer/4.1.82.Final/netty-buffer-4.1.82.Final.jar;C:/Users/david/Desktop/Prism/libraries/io/netty/netty-codec/4.1.82.Final/netty-codec-4.1.82.Final.jar;C:/Users/david/Desktop/Prism/libraries/io/netty/netty-common/4.1.82.Final/netty-common-4.1.82.Final.jar;C:/Users/david/Desktop/Prism/libraries/io/netty/netty-handler/4.1.82.Final/netty-handler-4.1.82.Final.jar;C:/Users/david/Desktop/Prism/libraries/io/netty/netty-resolver/4.1.82.Final/netty-resolver-4.1.82.Final.jar;C:/Users/david/Desktop/Prism/libraries/io/netty/netty-transport-classes-epoll/4.1.82.Final/netty-transport-classes-epoll-4.1.82.Final.jar;C:/Users/david/Desktop/Prism/libraries/io/netty/netty-transport-native-unix-common/4.1.82.Final/netty-transport-native-unix-common-4.1.82.Final.jar;C:/Users/david/Desktop/Prism/libraries/io/netty/netty-transport/4.1.82.Final/netty-transport-4.1.82.Final.jar;C:/Users/david/Desktop/Prism/libraries/it/unimi/dsi/fastutil/8.5.9/fastutil-8.5.9.jar;C:/Users/david/Desktop/Prism/libraries/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar;C:/Users/david/Desktop/Prism/libraries/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar;C:/Users/david/Desktop/Prism/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar;C:/Users/david/Desktop/Prism/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar;C:/Users/david/Desktop/Prism/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar;C:/Users/david/Desktop/Prism/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar;C:/Users/david/Desktop/Prism/libraries/org/apache/httpcomponents/httpcore/4.4.15/httpcore-4.4.15.jar;C:/Users/david/Desktop/Prism/libraries/org/apache/logging/log4j/log4j-api/2.19.0/log4j-api-2.19.0.jar;C:/Users/david/Desktop/Prism/libraries/org/apache/logging/log4j/log4j-core/2.19.0/log4j-core-2.19.0.jar;C:/Users/david/Desktop/Prism/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.19.0/log4j-slf4j2-impl-2.19.0.jar;C:/Users/david/Desktop/Prism/libraries/org/joml/joml/1.10.5/joml-1.10.5.jar;C:/Users/david/Desktop/Prism/libraries/org/slf4j/slf4j-api/2.0.1/slf4j-api-2.0.1.jar;C:/Users/david/Desktop/Prism/libraries/net/fabricmc/intermediary/1.19.3/intermediary-1.19.3.jar;C:/Users/david/Desktop/Prism/libraries/net/fabricmc/tiny-mappings-parser/0.3.0+build.17/tiny-mappings-parser-0.3.0+build.17.jar;C:/Users/david/Desktop/Prism/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar;C:/Users/david/Desktop/Prism/libraries/net/fabricmc/tiny-remapper/0.8.2/tiny-remapper-0.8.2.jar;C:/Users/david/Desktop/Prism/libraries/net/fabricmc/access-widener/2.1.0/access-widener-2.1.0.jar;C:/Users/david/Desktop/Prism/libraries/org/ow2/asm/asm/9.5/asm-9.5.jar;C:/Users/david/Desktop/Prism/libraries/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar;C:/Users/david/Desktop/Prism/libraries/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar;C:/Users/david/Desktop/Prism/libraries/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar;C:/Users/david/Desktop/Prism/libraries/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar;C:/Users/david/Desktop/Prism/libraries/net/fabricmc/fabric-loader/0.14.21/fabric-loader-0.14.21.jar;C:/Users/david/Desktop/Prism/libraries/com/mojang/minecraft/1.19.3/minecraft-1.19.3-client.jar org.prismlauncher.EntryPoint"
+     1.221 D | Task "ConcurrentTask(0x1ae6044d1e8)" succeeded
+     5.806 D | Component list save performed now for "1.19.3 Fabric"
+     7.531 W | QWaitCondition: Destroyed while threads are still waiting
+     7.531 W | QObject::killTimer: Timers cannot be stopped from another thread
+     7.531 W | QObject::~QObject: Timers cannot be stopped from another thread
